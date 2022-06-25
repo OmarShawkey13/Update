@@ -1,10 +1,12 @@
 {
   "records": [
     {
-      "version": "RCBusiness V2",
+      "version": "RCBusiness V2.1",
       "code": 2,
       "url": "https://osmodwa.blogspot.com/",
-      "changelog": "Update OSMod Test"
+      "changelog": "☑️ [Fixed] Backup and Restore
+☑️ [Changed] Style Store Theme
+☑️ [Changed] Style Status details"
     }
   ]
 }
