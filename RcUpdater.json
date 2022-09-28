@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "RCWhatsApp V3.0",
+      "version": "RCWhatsApp V4.0",
       "code": 5,
       "url": "https://rcwaios.com/",
-      "changelog": "- New Update -\n Change Profile info\n Change home\n More features and improvements!"
+      "changelog": "- New Update -\n Enabled Quick reactions to Status\n Enabled Admin can remove other people messages in group chats\n More features and improvements!"
     }
   ]
 }
