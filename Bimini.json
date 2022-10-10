@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "RCBusiness V2",
-      "code": 1,
+      "version": "RCWA Business V2",
+      "code": 3,
       "url": "https://www.rcwaios.com/",
-      "changelog": "Update OSMod Test"
+      "changelog": "- New Update -\n Added Show Name And Status\n Added New Home\n Added New Setting\n More features and improvements!  "
     }
   ]
 }
