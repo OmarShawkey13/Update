@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "RCBusiness V2.1",
-      "code": 3,
+      "version": "RCBusiness V2.2",
+      "code": 4,
       "url": "https://www.rcwaios.com/",
-      "changelog": "[Fixed] Backup and Restore\n[Changed] Style Store Theme\n[Changed] Style Status details\n[Added] Custom Reaction"
+      "changelog": "[Fixed] Tab\n[Changed] Style Settings\n[Added] FloatingOption \n[Added] encrypt and decrypt text \nMore features and improvements"
     }
   ]
 }
