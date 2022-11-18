@@ -1,1 +1,11 @@
+{
+  "records": [
+    {
+      "version": "RCWhatsApp V4.5",
+      "code": 6,
+      "url": "https://www.rcwaios.com/",
+      "changelog": "- New Update -\n Added RCWA Backups now created .zip file\n Enabled Create Polls and voting in groups\n Added FloatingOption in Chat\n More features and improvements!"
+    }
+  ]
+}
 
