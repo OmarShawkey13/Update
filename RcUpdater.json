@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "RCWhatsApp V4.5",
-      "code": 6,
+      "code": 7,
       "url": "https://www.rcwaios.com/",
       "changelog": "- New Update -\n Fixed encrypted message\n Fixed DialogAdd in iG\n More features and improvements!"
     }
