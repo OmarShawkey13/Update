@@ -2,9 +2,9 @@
   "records": [
     {
       "version": "RCWA Business V3",
-      "code": 3,
+      "code": 4,
       "url": "https://www.rcwaios.com/",
-      "changelog": "- New Update -\n Added Show Name And Status\n Added Home Ui\n Added New Setting\n More features and improvements!  "
+      "changelog": "- New Update -\n Added New Home\n Added New Entry\n Added New Style Setting\n More features and improvements!  "
     }
   ]
 }
