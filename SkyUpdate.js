@@ -1,5 +1,5 @@
 {
-	"version": "30.0",
+	"version": "1.0",
 	"download": "https://rcwaios.com/",
 	"update": [
 		{
