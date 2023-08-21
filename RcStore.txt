@@ -1,0 +1,3 @@
+versionName=24.0
+webpageUrl=https://rcwaios.com/
+dialogTitle=RcStore v1.0
