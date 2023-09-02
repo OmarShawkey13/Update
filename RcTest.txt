@@ -1,0 +1,3 @@
+versionName=1.5
+webpageUrl=https://t.me/RcStoreApps/
+dialogTitle=RcTest v1.0 Beta Test
