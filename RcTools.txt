@@ -1,3 +1,3 @@
-versionName=1.5
+versionName=2.0
 webpageUrl=https://t.me/RcStoreApps/
-dialogTitle=RcTools v1.5
+dialogTitle=RcTools v2.0
