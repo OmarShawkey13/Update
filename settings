@@ -6,9 +6,9 @@
 
     "ads_free": "",
 
-    "admob_id": "ca-app-pub-5440733685127744~7258246407",
-    "admob_app_open": "/23120430036,23029069462/ellipi.messenger_AppOpen_Rasool",
-    "admob_interstitial": "/23120430036,23029069462/ellipi.messenger_Interstitial_Rasool",
+    "admob_id": "",
+    "admob_app_open": "",
+    "admob_interstitial": "",
     "admob_native": "",
 
     "ads_native_main": "true",
