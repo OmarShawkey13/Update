@@ -1,0 +1,27 @@
+{
+  "records": [
+    {
+      "version": "OKMovies v1.0.3",
+      "code": 3,
+      "url": "https://okmovies.app/update",
+      "changelog": {
+        "en": [
+          "[Fixed] Minor UI issues in Movie Details",
+          "[Improved] App performance and loading speed",
+          "[Added] Auto language detection and adaptive theme",
+          "[Updated] About page with new design",
+          "[Improved] Trailer playback stability"
+        ],
+        "ar": [
+          "[تم الإصلاح] بعض مشاكل الواجهة في صفحة التفاصيل",
+          "[تم التحسين] أداء التطبيق وسرعة التحميل",
+          "[تمت الإضافة] اكتشاف اللغة التلقائي ودعم الثيم التفاعلي",
+          "[تم التحديث] صفحة حول التطبيق بتصميم جديد",
+          "[تم التحسين] ثبات تشغيل الإعلانات والعروض"
+        ]
+      },
+      "force_update": true,
+      "created_at": "2025-10-08"
+    }
+  ]
+}
