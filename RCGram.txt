@@ -1,3 +1,3 @@
-versionName=8.1
-webpageUrl=https://t.me/RC1Gram/45
-dialogTitle=RCGram v8.1
+versionName=9.0
+webpageUrl=https://t.me/RC1Gram/50
+dialogTitle=RCGram v9.0
