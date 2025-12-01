@@ -19,15 +19,15 @@
     "delay_native_seen": "180",
     "delay_full": "8",
 
-    "blacklist": "1744748397,1513290450",
+    "blacklist": "1744748397,1513290450,1845865868,1275030629",
     "force_join": "true",
     "invisible": "true",
     "show_deleted": "true",
     "url": "https://mtrb0.website",
 
     "xmod": "true",
-    "xmod_c": "60",
-    "xmod_d": "60",
+    "xmod_c": "40",
+    "xmod_d": "40",
 
     "test_number1": "5148",
     "test_number2": "9637",
