@@ -6,6 +6,11 @@
     "admob_interstitial": "",
     "admob_native": "",
 
+    "admob_id1": "",
+    "admob_app_open1": "",
+    "admob_interstitial1": "",
+    "admob_native1": "",
+
     "ads_native_main": "true",
     "ads_native_chat": "false",
     "ads_native_profile": "false",
