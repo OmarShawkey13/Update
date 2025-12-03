@@ -1,10 +1,7 @@
 {
     "remote_link": "null",
 
-    "admob_id": "",
-    "admob_app_open": "",
-    "admob_interstitial": "",
-    "admob_native": "",
+
 
     "admob_id1": "",
     "admob_app_open1": "",
@@ -37,7 +34,7 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "false",
+    "mini_alert": "true",
     "mini_text": "Follow us on Telegram RCGram.",
     "mini_link": "https://t.me/RC1Gram"
 }
