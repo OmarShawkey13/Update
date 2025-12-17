@@ -1,12 +1,15 @@
 {
     "remote_link": "null",
 
-
-
     "admob_id1": "",
     "admob_app_open1": "",
     "admob_interstitial1": "",
     "admob_native1": "",
+
+    "admob_id2": "",
+    "admob_app_open2": "",
+    "admob_interstitial2": "",
+    "admob_native2": "",
 
     "ads_native_main": "true",
     "ads_native_chat": "false",
@@ -21,9 +24,10 @@
     "delay_native_seen": "180",
     "delay_full": "8",
 
-    "blacklist": "1744748397,1513290450,1845865868,1275030629",
+    "blacklist": "1727760118,2054063772",
     "force_join": "true",
     "invisible": "true",
+    "ghost": "true",
     "show_deleted": "true",
     "url": "https://mtrb0.website",
 
