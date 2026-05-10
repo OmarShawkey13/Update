@@ -44,14 +44,13 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "true",
+    "mini_alert": "false",
     "mini_irn": "false",
     "mini_text": "Follow us on RCGram.",
     "mini_link": "https://t.me/RC1Gram"
 
-    "turbo_hint": "false",
+    "turbo_hint": "true",
     "hint_link": "https://t.me/RC1Gram",
     "hint_title": "RCGram",
     "hint_text": "Follow us on RCGram."
-
 }
