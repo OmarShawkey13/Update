@@ -6,9 +6,9 @@
     "admob_interstitial": "",
     "admob_native": "",
 
-    "admob_id1": ",
+    "admob_id1": "",
     "admob_app_open1": "",
-    "admob_interstitial1": ",
+    "admob_interstitial1": "",
     "admob_native1": "",
 
     "admob_id2": "",
@@ -49,8 +49,13 @@
     "mini_text": "Follow us on RCGram.",
     "mini_link": "https://t.me/RC1Gram",
 
-    "turbo_hint": "true",
+    "turbo_hint": "false",
     "hint_link": "https://t.me/RC1Gram",
     "hint_title": "RCGram",
-    "hint_text": "Follow us on RCGram."
+    "hint_text": "Follow us on RCGram.",
+    "hint_text_fa": "",
+    "hint_text_id": "",
+    "hint_text_ms": "",
+    "hint_text_uz": "",
+    "hint_text_ar": ""
 }
