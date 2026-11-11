@@ -1,3 +1,0 @@
-versionName=1.0
-webpageUrl=https://www.mediafire.com/file/xip1ro68wh238uf/ToolsStore_v1.5.apk/file
-dialogTitle=RcStore v1.0
